@@ -1,0 +1,147 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC03,Estimate; HOUSEHOLDS BY TYPE - Total households
+HC02_VC03,Margin of Error; HOUSEHOLDS BY TYPE - Total households
+HC03_VC03,Percent; HOUSEHOLDS BY TYPE - Total households
+HC04_VC03,Percent Margin of Error; HOUSEHOLDS BY TYPE - Total households
+HC01_VC12,Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+HC02_VC12,Margin of Error; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+HC03_VC12,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+HC04_VC12,Percent Margin of Error; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+HC01_VC13,Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+HC02_VC13,Margin of Error; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+HC03_VC13,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+HC04_VC13,Percent Margin of Error; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+HC01_VC14,Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - 65 years and over
+HC02_VC14,Margin of Error; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - 65 years and over
+HC03_VC14,Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - 65 years and over
+HC04_VC14,Percent Margin of Error; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - 65 years and over
+HC01_VC21,Estimate; HOUSEHOLDS BY TYPE - Average household size
+HC02_VC21,Margin of Error; HOUSEHOLDS BY TYPE - Average household size
+HC03_VC21,Percent; HOUSEHOLDS BY TYPE - Average household size
+HC04_VC21,Percent Margin of Error; HOUSEHOLDS BY TYPE - Average household size
+HC01_VC22,Estimate; HOUSEHOLDS BY TYPE - Average family size
+HC02_VC22,Margin of Error; HOUSEHOLDS BY TYPE - Average family size
+HC03_VC22,Percent; HOUSEHOLDS BY TYPE - Average family size
+HC04_VC22,Percent Margin of Error; HOUSEHOLDS BY TYPE - Average family size
+HC01_VC76,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+HC02_VC76,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+HC03_VC76,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+HC04_VC76,Percent Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+HC01_VC77,"Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC02_VC77,"Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC03_VC77,"Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC04_VC77,"Percent Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC01_VC78,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+HC02_VC78,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+HC03_VC78,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+HC04_VC78,Percent Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+HC01_VC79,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+HC02_VC79,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+HC03_VC79,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+HC04_VC79,Percent Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+HC01_VC80,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+HC02_VC80,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+HC03_VC80,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+HC04_VC80,Percent Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+HC01_VC81,Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+HC02_VC81,Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+HC03_VC81,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+HC04_VC81,Percent Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+HC01_VC95,Estimate; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher
+HC02_VC95,Margin of Error; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher
+HC03_VC95,Percent; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher
+HC04_VC95,Percent Margin of Error; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher
+HC01_VC96,Estimate; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher
+HC02_VC96,Margin of Error; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher
+HC03_VC96,Percent; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher
+HC04_VC96,Percent Margin of Error; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher
+HC01_VC105,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population
+HC02_VC105,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population
+HC03_VC105,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population
+HC04_VC105,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population
+HC01_VC106,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability
+HC02_VC106,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability
+HC03_VC106,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability
+HC04_VC106,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability
+HC01_VC108,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years
+HC02_VC108,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years
+HC03_VC108,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years
+HC04_VC108,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years
+HC01_VC109,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years - With a disability
+HC02_VC109,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years - With a disability
+HC03_VC109,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years - With a disability
+HC04_VC109,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years - With a disability
+HC01_VC111,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years
+HC02_VC111,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years
+HC03_VC111,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years
+HC04_VC111,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years
+HC01_VC112,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years - With a disability
+HC02_VC112,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years - With a disability
+HC03_VC112,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years - With a disability
+HC04_VC112,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years - With a disability
+HC01_VC114,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over
+HC02_VC114,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over
+HC03_VC114,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over
+HC04_VC114,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over
+HC01_VC115,Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over - With a disability
+HC02_VC115,Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over - With a disability
+HC03_VC115,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over - With a disability
+HC04_VC115,Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over - With a disability
+HC01_VC170,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over
+HC02_VC170,Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over
+HC03_VC170,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over
+HC04_VC170,Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over
+HC01_VC171,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+HC02_VC171,Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+HC03_VC171,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+HC04_VC171,Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+HC01_VC172,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+HC02_VC172,Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+HC03_VC172,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+HC04_VC172,Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+HC01_VC174,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish
+HC02_VC174,Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish
+HC03_VC174,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish
+HC04_VC174,Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish
+HC01_VC175,"Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish - Speak English less than ""very well"""
+HC02_VC175,"Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish - Speak English less than ""very well"""
+HC03_VC175,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish - Speak English less than ""very well"""
+HC04_VC175,"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish - Speak English less than ""very well"""
+HC01_VC176,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages
+HC02_VC176,Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages
+HC03_VC176,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages
+HC04_VC176,Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages
+HC01_VC177,"Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages - Speak English less than ""very well"""
+HC02_VC177,"Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages - Speak English less than ""very well"""
+HC03_VC177,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages - Speak English less than ""very well"""
+HC04_VC177,"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages - Speak English less than ""very well"""
+HC01_VC178,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages
+HC02_VC178,Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages
+HC03_VC178,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages
+HC04_VC178,Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages
+HC01_VC179,"Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages - Speak English less than ""very well"""
+HC02_VC179,"Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages - Speak English less than ""very well"""
+HC03_VC179,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages - Speak English less than ""very well"""
+HC04_VC179,"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages - Speak English less than ""very well"""
+HC01_VC180,Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages
+HC02_VC180,Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages
+HC03_VC180,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages
+HC04_VC180,Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages
+HC01_VC181,"Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages - Speak English less than ""very well"""
+HC02_VC181,"Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages - Speak English less than ""very well"""
+HC03_VC181,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages - Speak English less than ""very well"""
+HC04_VC181,"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages - Speak English less than ""very well"""
+HC01_VC185,Estimate; ANCESTRY - Total population
+HC02_VC185,Margin of Error; ANCESTRY - Total population
+HC03_VC185,Percent; ANCESTRY - Total population
+HC04_VC185,Percent Margin of Error; ANCESTRY - Total population
+HC01_VC186,Estimate; ANCESTRY - Total population - American
+HC02_VC186,Margin of Error; ANCESTRY - Total population - American
+HC03_VC186,Percent; ANCESTRY - Total population - American
+HC04_VC186,Percent Margin of Error; ANCESTRY - Total population - American
+HC01_VC187,Estimate; ANCESTRY - Total population - Arab
+HC02_VC187,Margin of Error; ANCESTRY - Total population - Arab
+HC03_VC187,Percent; ANCESTRY - Total population - Arab
+HC04_VC187,Percent Margin of Error; ANCESTRY - Total population - Arab

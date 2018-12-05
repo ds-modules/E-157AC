@@ -1,6 +1,8 @@
 DP02
 SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES
 
+Note: This is a modified view of the original table.
+
 Tell us what you think. Provide feedback to help make American Community Survey data more useful for you.
 Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties.
 
