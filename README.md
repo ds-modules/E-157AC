@@ -1,4 +1,4 @@
-# E-157AC (Under Development)
+# E-157AC
 
 ## Engineering, The Environment, and Society
 ### Professor: Khalid Kadir
